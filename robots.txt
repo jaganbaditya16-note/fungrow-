@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaganbaditya16-note.github.io/fungrow-/sitemap.xml
